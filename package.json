@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-store-headless-components",
+  "version": "0.0.1",
+  "description": "Nuxt3 UI Store Components",
+  "main": "nuxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "nuxt3": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtend-laravel/nuxt-store-headless-components.git"
+  },
+  "keywords": [
+    "Nuxt3",
+    "UI"
+  ],
+  "author": "Adam Lee",
+  "license": "MIT",
+  "homepage": "https://github.com/xtend-laravel/nuxt-store-headless-components#README"
+}
